@@ -1,7 +1,8 @@
-**🛒 Retail Sales Data Cleaning Project
+****🛒 Retail Sales Data Cleaning Project
 📌 Project Overview
-**
+****
 This project focuses on the critical first step of data analysis:
+
 Data Immersion, Profiling, and Data Wrangling using the Superstore Sales dataset.
 
 The goal is to transform raw sales transaction data into an analysis-ready dataset by handling:
@@ -27,6 +28,7 @@ Records: Sales transactions
 Tool Used: Python (Pandas)
 
 🔍 Steps Performed
+
 1️⃣ Data Immersion
 
 Explored dataset structure
