@@ -8,6 +8,7 @@ To clean and preprocess the retail sales dataset.
 - Removed duplicates
 - Corrected data types
 - Handled outliers
+- Feature Engineering
 
 ## Tools Used
 - Python
