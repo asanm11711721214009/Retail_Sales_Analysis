@@ -28,7 +28,7 @@ Project: Retail Sales Data Cleaning & Business Insights
 | Country     | String      | Country of customer   | Regional analysis        |
 | City        | String      | City of customer      | Local sales analysis     |
 | State       | String      | State of customer     | Geographic performance   |
-| Postal Code | Integer     | ZIP/Postal code       | Delivery optimization    |
+| Postal Code | String      | ZIP/Postal code       | Delivery optimization    |
 | Region      | Categorical | Region classification | Regional profit analysis |
 
 
