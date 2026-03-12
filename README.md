@@ -72,6 +72,8 @@ This task includes:
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 - GitHub
 - Power BI
