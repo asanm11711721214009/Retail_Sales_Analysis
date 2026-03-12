@@ -105,7 +105,7 @@ Built a fully functional, multi-page Power BI dashboard surfacing core KPIs and 
 ---
 
 ## 🔗 Live Dashboard
-👉 [Click here to view the live Power BI Dashboard](#) ← *Replace with your published link*
+https://1drv.ms/u/c/54bcfb4e69e65481/IQB5bVHg4zfrRazoFZjQ0V9gAUt_tMcbdcPbdCjw_Mx2VqQ?e=WYWTlP
 
 ---
 
