@@ -87,7 +87,6 @@ This task includes:
 ---
 
 ## 🚀 Future Work
-- Task-3: Data Visualization
 - Task-4: Dashboard Development
 - Task-5: Final Report & Insights
 
