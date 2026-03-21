@@ -40,8 +40,7 @@ This project analyzes Superstore Sales data (2014–2017) to understand what dri
 - Focus on Technology category
 
 ## Tools Used
-- Excel / Python
-- Pandas
+- Python
 - Matplotlib / Seaborn
 - Statistical Testing
 - PowerPoint
