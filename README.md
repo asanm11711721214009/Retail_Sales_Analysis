@@ -76,7 +76,7 @@ This task includes:
 - Generated business recommendations
 - Created final presentation
 
- ## 📊 Task-5: 
+ ## 📊 Task-5: Capstone Integration & Portfolio Finalization
               Final presentation
 
 
